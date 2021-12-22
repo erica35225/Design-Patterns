@@ -10,8 +10,8 @@ public class Demo {
         printMessage(new TextMessageCreator());
     }
 
-    private static void printMessage(MessageCreator message) {
-       System.out.println(message.getMessage(message).getContent());
+    private static void printMessage(MessageCreator creator) {
+       System.out.println(creator.getMessage(creator).getContent());
     }
 
 }
