@@ -1,2 +1,5 @@
-package SingletonDesignPattern.LazySingletonWithDCL;public class LazySingleton {
+package SingletonDesignPattern.LazySingletonWithDCL;
+
+public class LazySingleton {
+
 }
