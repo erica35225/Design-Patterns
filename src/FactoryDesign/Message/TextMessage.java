@@ -1,4 +1,4 @@
-package SimpleFactory.Message;
+package FactoryDesign.Message;
 
 public class TextMessage extends Message{
     @Override

@@ -1,6 +1,6 @@
-package SimpleFactory.MessageCreator;
+package FactoryDesign.MessageCreator;
 
-import SimpleFactory.Message.Message;
+import FactoryDesign.Message.Message;
 
 public abstract class MessageCreator {
     public Message getMessage(MessageCreator msg){

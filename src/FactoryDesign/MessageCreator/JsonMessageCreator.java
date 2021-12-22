@@ -1,7 +1,7 @@
-package SimpleFactory.MessageCreator;
+package FactoryDesign.MessageCreator;
 
-import SimpleFactory.Message.JsonMessage;
-import SimpleFactory.Message.Message;
+import FactoryDesign.Message.JsonMessage;
+import FactoryDesign.Message.Message;
 
 public class JsonMessageCreator extends MessageCreator{
     @Override

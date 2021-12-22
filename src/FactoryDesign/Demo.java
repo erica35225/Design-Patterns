@@ -1,8 +1,8 @@
-package SimpleFactory;
+package FactoryDesign;
 
-import SimpleFactory.MessageCreator.JsonMessageCreator;
-import SimpleFactory.MessageCreator.MessageCreator;
-import SimpleFactory.MessageCreator.TextMessageCreator;
+import FactoryDesign.MessageCreator.JsonMessageCreator;
+import FactoryDesign.MessageCreator.MessageCreator;
+import FactoryDesign.MessageCreator.TextMessageCreator;
 
 public class Demo {
     public static void main(String[] args) {

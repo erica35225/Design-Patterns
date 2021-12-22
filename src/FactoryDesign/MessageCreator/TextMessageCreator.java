@@ -1,7 +1,7 @@
-package SimpleFactory.MessageCreator;
+package FactoryDesign.MessageCreator;
 
-import SimpleFactory.Message.Message;
-import SimpleFactory.Message.TextMessage;
+import FactoryDesign.Message.Message;
+import FactoryDesign.Message.TextMessage;
 
 public class TextMessageCreator extends MessageCreator{
 
